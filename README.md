@@ -1,7 +1,4 @@
 ## Welcome to my profile!
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/a1ipAJgNqhs25L8371/giphy.gif" width="700"/>
-</div>
 
 
 ## About Me
