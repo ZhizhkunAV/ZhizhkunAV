@@ -14,17 +14,21 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 ## Technologies
 
 <p align="left">
-<img src="icons/Idea.svg" width="50" height="50"  alt="IDEA"/></a>
-<img src="icons/Java.svg" width="50" height="50"  alt="Java"/></a>
-<img src="icons/Gradle.svg" width="50" height="50"  alt="Gradle"/></a>
-<img src="icons/Selenide.svg" width="50" height="50"  alt="Selenide"/></a>
-<img src="icons/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
-<img src="icons/gitlab.png" width="50" height="50"  alt="gitlab"/></a>
-<img src="icons/RestAssured.svg" width="50" height="50"  alt="RestAssured"/></a>
-<img src="icons/Junit5.svg" width="50" height="50"  alt="JUnit 5"/></a>
-<img src="icons/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
-<img src="icons/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>
-<img src="icons/testng.png" width="100" height="50"  alt="testng"/></a>
+<a href="https://www.java.com/"><img src="images/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
+<a id ="tech" href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="60" height="60"  alt="IDEA"/></a>
+
+<a href="https://selenide.org"><img src="images/selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
+
+<a href="https://junit.org/junit5"><img src="images/junit5.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/></a>
+
+</a><a href="https://rest-assured.io"><img src="images/rest_assured.svg" title="RestAssured" alt="REST Assured" width="50" height="50"/></a>
+<a href="https://gradle.org"><img src="images/gradle.svg" title="Gradle" alt="Gradle" width="50" height="50"/></a>
+
+
+<a href="https://www.jenkins.io"><img src="images/jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="images/jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
+<a href="https://qameta.io/allure-report"><img src="images/allure_report.svg" title="Allure" alt="Allure Report" width="50" height="50"/></a>
+<a href="https://qameta.io"><img src="images/allure_testops.svg" title="Allure Testops" alt="Allure_TO" width="50" height="50"/></a>
 
 
 ## Projects
