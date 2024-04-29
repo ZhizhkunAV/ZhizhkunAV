@@ -20,13 +20,10 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 <img src="icons/Selenide.svg" width="50" height="50"  alt="Selenide"/></a>
 <img src="icons/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a>
 <img src="icons/gitlab.png" width="50" height="50"  alt="gitlab"/></a>
-<img src="icons/TM.png" width="50" height="50"  alt="teamcity"/></a>
 <img src="icons/RestAssured.svg" width="50" height="50"  alt="RestAssured"/></a>
 <img src="icons/Junit5.svg" width="50" height="50"  alt="JUnit 5"/></a>
 <img src="icons/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
 <img src="icons/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>
-<img src="icons/Appium.svg" width="50" height="50"  alt="Appium"/></a>
-<img src="icons/android.svg" width="100" height="50"  alt="android"/></a>
 <img src="icons/testng.png" width="100" height="50"  alt="testng"/></a>
 
 
