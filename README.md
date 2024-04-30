@@ -24,6 +24,7 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 <a href="https://www.atlassian.com/software/jira"><img src="images/logo/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
 <a href="https://qameta.io/allure-report"><img src="images/logo/Allure.svg" title="Allure" alt="Allure Report" width="50" height="50"/></a>
 <a href="https://qameta.io"><img src="images/logo/Allure_TO.svg" title="Allure Testops" alt="Allure_TO" width="50" height="50"/></a>
+<a href="https://kafka.apache.org/"><img src="images/logo/kafka.webp" title="Apache Kafka" alt="kafka" width="50" height="50"/></a>
 
 
 ## Projects
