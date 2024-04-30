@@ -26,9 +26,9 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 
 
 <a href="https://www.jenkins.io"><img src="images/jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></a>
-<a href="https://www.atlassian.com/software/jira"><img src="images/jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
-<a href="https://qameta.io/allure-report"><img src="images/allure_report.svg" title="Allure" alt="Allure Report" width="50" height="50"/></a>
-<a href="https://qameta.io"><img src="images/allure_testops.svg" title="Allure Testops" alt="Allure_TO" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="images/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
+<a href="https://qameta.io/allure-report"><img src="images/Allure.svg" title="Allure" alt="Allure Report" width="50" height="50"/></a>
+<a href="https://qameta.io"><img src="images/Allure_TO.svg" title="Allure Testops" alt="Allure_TO" width="50" height="50"/></a>
 
 
 ## Projects
