@@ -38,6 +38,4 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 ## Contacts
 - LinkedIn: 
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/a1ipAJgNqhs25L8371/giphy.gif" width="700"/>
-</div>
+
