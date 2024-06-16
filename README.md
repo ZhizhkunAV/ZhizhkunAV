@@ -41,7 +41,7 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 
 ## My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=sport-marafon-tests&theme=blueberry)](https://github.com/ZhizhkunAV/axe_test_work)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=axe_test_work&theme=blueberry)](https://github.com/ZhizhkunAV/axe_test_work)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=chitai-gorod-tests&theme=blueberry)](https://github.com/ZhizhkunAV/demoqa-ui-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=wikipedia-tests&theme=blueberry)](https://github.com/ZhizhkunAV/mobile-browserstack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=wikipedia-tests&theme=blueberry)]([https://github.com/ZhizhkunAV/mobile-browserstack](https://github.com/ZhizhkunAV/rest_api))
