@@ -8,11 +8,11 @@ My name is Andrey and i'm a QA Engineer since January 2021.
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
-  <a href="mailto:melnikov.tosha001@gmail.ru">
-    <img src="https://img.shields.io/badge/@gmail.com-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:zizkun.av@list.ru">
+    <img src="https://img.shields.io/badge/@mail.ru-blue?style=for-the-badge&logo=mail&logoColor=white" alt="mail Badge"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/anton-melnikov-6254532a1/">
+  <a href="https://www.linkedin.com/in/андрей-жижкун-16b44a224/?locale=en_US">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
