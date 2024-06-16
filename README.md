@@ -4,6 +4,18 @@
 ## About Me
 My name is Andrey and i'm a QA Engineer since January 2021. 
 
+  <a href="https://t.me/">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
+  <a href="mailto:melnikov.tosha001@gmail.ru">
+    <img src="https://img.shields.io/badge/@gmail.com-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/anton-melnikov-6254532a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
 ### Skills
 - ### Java( in progress) :hotsprings: 
     - Backend testing (API, databases, Kafka)
