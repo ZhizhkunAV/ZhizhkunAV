@@ -4,7 +4,7 @@
 ## About Me
 My name is Andrey and i'm a QA Engineer since January 2021. 
 
-  <a href="https://t.me/">
+  <a href="https://t.me/LikeAndrey24">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
