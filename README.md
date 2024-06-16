@@ -36,15 +36,15 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 <a href="https://www.postman.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/> </a>
 <a href="https://kafka.apache.org/"><img src="images/logo/kafka.webp" title="Apache Kafka" alt="kafka" width="50" height="50"/></a>
 
-## Libraries
-<a href="https://junit.org/junit5"><img src="images/logo/Junit5.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/></a>
-
 <p align="left">
 
 
 ## My Projects
-                                                          | [Certificate Link](https://drive.google.com/file/d/1PCjuiV8ppq7Fwinf5yeXRiWhNlT8zmyU/view?usp=drive_link)  |
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=sport-marafon-tests&theme=blueberry)](https://github.com/ZhizhkunAV/axe_test_work)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=chitai-gorod-tests&theme=blueberry)](https://github.com/ZhizhkunAV/demoqa-ui-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=wikipedia-tests&theme=blueberry)](https://github.com/ZhizhkunAV/mobile-browserstack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=wikipedia-tests&theme=blueberry)]([https://github.com/ZhizhkunAV/mobile-browserstack](https://github.com/ZhizhkunAV/rest_api))
 
 
 ## My Stats
