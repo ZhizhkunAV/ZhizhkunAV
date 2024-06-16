@@ -3,6 +3,10 @@
 
 ## About Me
 My name is Andrey and i'm a QA Engineer since January 2021. 
+- 🎓 Я изучаю **QA, Java**
+- 💼 Работаю в роли Fullstack Java QA Engineer.
+- 💻 Ниже можете увидеть некоторые мои работы.
+- 💬 Помимо тестирования можете у меня спросить про: мировую историю и роль личностей в ней, космос и технологии.
 
   <a href="https://t.me/LikeAndrey24">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
