@@ -1,4 +1,4 @@
-<h3 align="center">Fullstack Java QA Engineer </h3>
+<h2 align="center">Fullstack Java QA Engineer </h2>
 
 ## About Me
 My name is Andrey and i'm a QA Engineer since January 2021. 
