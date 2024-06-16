@@ -45,6 +45,14 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 ## Projects
 - 
 
+## My Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZhizhkunAV&theme=tokyonight" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZhizhkunAV&theme=tokyonight" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZhizhkunAV&theme=tokyonight" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZhizhkunAV&theme=tokyonight" alt="Repos Per Language">
+</p>
+
 ## My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhizhkunAV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
