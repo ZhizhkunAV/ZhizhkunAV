@@ -42,8 +42,10 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 <p align="left">
 
 
-## Projects
-- 
+## My Projects
+                                                          | [Certificate Link](https://drive.google.com/file/d/1PCjuiV8ppq7Fwinf5yeXRiWhNlT8zmyU/view?usp=drive_link)  |
+
+
 
 ## My Stats
 <p align="center">
@@ -53,10 +55,6 @@ My name is Andrey and i'm a QA Engineer since January 2021.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZhizhkunAV&theme=tokyonight" alt="Repos Per Language">
 </p>
 
-## My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhizhkunAV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhizhkunAV&show_icons=true&theme=vision-friendly-dark)
 
 ## Contacts
 - LinkedIn: 
