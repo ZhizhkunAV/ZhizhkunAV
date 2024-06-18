@@ -47,7 +47,6 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 <a href="https://qameta.io/allure-report"><img src="images/logo/Allure.svg" title="Allure" alt="Allure Report" width="50" height="50"/></a>
 <a href="https://qameta.io"><img src="images/logo/Allure_TO.svg" title="Allure Testops" alt="Allure_TO" width="50" height="50"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="images/logo/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
-<a href="https://proxyman.io/"> <img src="icons/proxyman.png" title="Proxyman" alt="Proxyman" width="40" height="40"/> </a>
 <a href="https://www.postman.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="50" height="50"/> </a>
 <a href="https://kafka.apache.org/"><img src="images/logo/kafka.webp" title="Apache Kafka" alt="kafka" width="50" height="50"/></a>
 
@@ -57,9 +56,11 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 ## My Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=axe_test_work&theme=blueberry)](https://github.com/ZhizhkunAV/axe_test_work)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=rest_api&theme=blueberry)](https://github.com/ZhizhkunAV/rest_api)
+
+## Other interesting projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=demoqa-ui-api&theme=blueberry)](https://github.com/ZhizhkunAV/demoqa-ui-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=mobile-browserstack&theme=blueberry)](https://github.com/ZhizhkunAV/mobile-browserstack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhizhkunAV&repo=rest_api&theme=blueberry)](https://github.com/ZhizhkunAV/rest_api)
 
 
 ## My Stats
