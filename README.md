@@ -36,7 +36,7 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 <a href="https://developer.android.com/studio"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50"/> </a> 
 
 ## Automotization frameworks
-<a href="https://junit.org/junit5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/> </a>
+<a href="https://junit.org/junit5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/> </a>
 <a href="https://selenide.org"><img src="images/logo/Selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
 <a href="https://rest-assured.io"><img src="images/logo/RestAssured.svg" title="RestAssured" alt="REST Assured" width="50" height="50"/></a>
 
