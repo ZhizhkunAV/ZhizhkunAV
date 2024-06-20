@@ -7,7 +7,7 @@ My name is Andrey and i'm a QA Engineer since January 2021.
 - 💻 Below you can see some of my works.
 - 💬 In addition to testing, you can ask me about: world history and the role of individuals in it, space and technology.
 
-  <a href="https://t.me/LikeAndrey24">
+  <a href="https://t.me/foqbgy">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
