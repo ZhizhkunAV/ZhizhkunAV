@@ -2,7 +2,7 @@
 
 ## About Me
 My name is Andrey and i'm a QA Engineer since January 2021. 
-- 🎓 I study **QA, Java**
+- 🎓 I study **QA and Java**
 - 💼 I work as a Fullstack Java QA Engineer.
 - 💻 Below you can see some of my works.
 - 💬 In addition to testing, you can ask me about: world history and the role of individuals in it, space and technology.
